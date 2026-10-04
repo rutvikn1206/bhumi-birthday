@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" role="img" aria-label="Placeholder portrait">
+  <defs>
+    <linearGradient id="c" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a1438"/>
+      <stop offset="0.45" stop-color="#a84b73"/>
+      <stop offset="1" stop-color="#f0c27a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1100" fill="url(#c)"/>
+  <circle cx="400" cy="390" r="150" fill="#ffe8f1" opacity=".28"/>
+  <ellipse cx="400" cy="860" rx="220" ry="80" fill="#fff" opacity=".12"/>
+  <circle cx="140" cy="160" r="70" fill="#fff" opacity=".15"/>
+  <circle cx="680" cy="240" r="90" fill="#ffd27a" opacity=".25"/>
+  <text x="400" y="580" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="44" opacity=".92">Your portrait</text>
+</svg>
